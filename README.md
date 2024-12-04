@@ -84,9 +84,9 @@ Product details with options for size, color, and quantity.
 Customer reviews section.
 Checkout:
 Clean and simple payment process.
-Feedback and Suggestions
-Your feedback is invaluable for improving the design. Please feel free to share your thoughts or suggestions.
+Feedback
+This project is open to feedback for further improvements. Feel free to reach out!
 
 Contact Information:
-Email: YourEmail@example.com
-GitHub: YourGitHubProfile
+Email: madesh21h031@gmail.com
+GitHub: (https://github.com/Madesh06)
